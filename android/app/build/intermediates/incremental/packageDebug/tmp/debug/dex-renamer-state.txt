@@ -1,0 +1,7 @@
+#Thu Dec 27 11:17:57 CET 2018
+base.0=C\:\\Users\\User\\Desktop\\eenn\\tttttttttttt prov 2\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\User\\Desktop\\eenn\\tttttttttttt prov 2\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0

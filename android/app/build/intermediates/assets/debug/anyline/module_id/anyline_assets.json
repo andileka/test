@@ -1,0 +1,12 @@
+{
+    "comment": "Auto generated file. Manual changes will be overwritten.",
+    "immediateAssets": {
+        "anyline/module_id/anyline_austrian_driving_license.ale": "e7a83e9b975ca61cacd82c99ca2a5f38",
+        "anyline/module_id/mrz_scanning.ale": "b4b78cb2eaee0ea3eb4e33f1bac96411",
+        "anyline/module_id/trained_models/mrz_retrain3_17500.enc": "29e09467e390405b48913d4a2397c971"
+    },
+    "lazyAssets": {
+        "anyline/module_id/tessdata/deu.traineddata": "2d5190b9b62e28fa6d17b728ca195776",
+        "anyline/module_id/tessdata/eng_no_dict.traineddata": "d142032d86da1be4dbe22dce2eec18d7"
+    }
+}

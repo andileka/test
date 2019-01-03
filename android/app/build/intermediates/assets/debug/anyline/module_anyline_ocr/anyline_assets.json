@@ -1,0 +1,18 @@
+{
+    "comment": "Auto generated file. Manual changes will be overwritten.",
+    "immediateAssets": {
+        "anyline/module_anyline_ocr/anyline_ocr_auto.ale": "4102b57235baabc252a739dcf82d9aec",
+        "anyline/module_anyline_ocr/anyline_ocr_auto_any.ale": "e1744a7684847966d7a0817c7637258c",
+        "anyline/module_anyline_ocr/anyline_ocr_grid.ale": "1fadc1412b1614051cc4cab07143815b",
+        "anyline/module_anyline_ocr/anyline_ocr_grid_any.ale": "d20d2aacd4bef4abd1ccc78b43c14ad4",
+        "anyline/module_anyline_ocr/anyline_ocr_line.ale": "0cd8d782d481a7e3638b6daf77f70bd2",
+        "anyline/module_anyline_ocr/anyline_ocr_line_any.ale": "932a82e206b48ef7e0576c2791436b4a",
+        "anyline/module_anyline_ocr/container_scanner.ale": "4eafa773a810a6322eb3dae450f895e0",
+        "anyline/module_anyline_ocr/trained_models/USNr.any": "b0ea75132fb647f375ff0d5a05c60093",
+        "anyline/module_anyline_ocr/trained_models/VIN.any": "8bf4a9635068a90037ddd50df0af3a20",
+        "anyline/module_anyline_ocr/vin.ale": "ba33816372def9669ca954b732c5964b"
+    },
+    "lazyAssets": {
+        
+    }
+}

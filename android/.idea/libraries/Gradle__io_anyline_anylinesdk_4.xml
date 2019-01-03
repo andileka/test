@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.anyline:anylinesdk-4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/anylinesdk-4.aar/4bb586ca9979ed6b0964cee363e5010a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/anylinesdk-4.aar/4bb586ca9979ed6b0964cee363e5010a/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.anyline/anylinesdk/4/310eb678162ece4a4a91b568bde06a44e1f15955/anylinesdk-4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
